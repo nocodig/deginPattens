@@ -1,3 +1,4 @@
+// 简易版版本发布订阅模式
 class EventEmitter {
   constructor() {
     // { click: [fn1, fn2], change: [fn1]} 
